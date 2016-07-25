@@ -8,9 +8,7 @@
 
 #import "AppDelegate.h"
 
-@interface AppDelegate (){
-    NSInteger nnn;
-}
+@interface AppDelegate ()
 
 @end
 
